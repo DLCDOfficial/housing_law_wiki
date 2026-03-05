@@ -7,7 +7,9 @@ const App = () => {
   return (
     <HashRouter>
       <nav>
-        <Link to="/">Home</Link>
+        <calcite-chip value={`Go Home`} icon="home" scale="s">
+          <Link to="/">Home</Link>
+        </calcite-chip>
       </nav>
 
       <Routes>

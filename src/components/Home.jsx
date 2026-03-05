@@ -1,20 +1,29 @@
 import { Link } from "react-router-dom";
 import configYaml from '../housing_laws/config.yaml';
+import "./Home.css";
 
 const Home = () => {
-    const LawLinks = configYaml.map(({title, route}) => {
-        console.log(title, route)
+    const LawLinkCards = configYaml.map(({title, route, description}) => {
         return (
-            <Link key={route} to={`/laws/${route}`}>{title}</Link>
+            <calcite-card key={route} label={title}>
+                <span slot="heading">
+                    <Link to={`/laws/${route}`}>{title}</Link>
+                </span>
+                <p slot="description">{description}</p>
+                <div slot="footer-end">
+                    <calcite-chip value={`Go to ${title} page`} icon="link" scale="s">
+                        <Link to={`/laws/${route}`}>View</Link>
+                    </calcite-chip>
+                </div>
+            </calcite-card>
         )
     });
     return(
         <div>
             <h1>Housing Law Wiki</h1>
-            <nav>
-                {LawLinks}
-                {/* <Link to="/laws/accessory_dwelling_unit">Accessory Dwelling Unit</Link> */}
-            </nav>
+            <calcite-card-group label="Housing Laws">
+                {LawLinkCards}
+            </calcite-card-group>
         </div>
     );
 };
