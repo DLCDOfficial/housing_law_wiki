@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route, Link, Navigate } from 'react-router-dom';
 import Home from './components/Home';
 import HousingLaw from './components/HousingLaw';
-import './App.css'
+import './App.css';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/housing_law_wiki/dist">
       <nav>
         <Link to="/">Home</Link>
       </nav>
