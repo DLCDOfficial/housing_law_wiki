@@ -1,11 +1,11 @@
-import { BrowserRouter, Routes, Route, Link, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, Link, Navigate } from 'react-router-dom';
 import Home from './components/Home';
 import HousingLaw from './components/HousingLaw';
 import './App.css';
 
 const App = () => {
   return (
-    <BrowserRouter basename="/housing_law_wiki/dist">
+    <HashRouter>
       <nav>
         <Link to="/">Home</Link>
       </nav>
@@ -15,7 +15,7 @@ const App = () => {
         <Route path="/laws" element={<Navigate to="/" replace />}/>
         <Route path="/laws/:law" element={<HousingLaw />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 };
 
