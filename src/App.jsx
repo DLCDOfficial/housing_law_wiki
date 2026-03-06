@@ -16,6 +16,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/laws" element={<Navigate to="/" replace />}/>
         <Route path="/laws/:law" element={<HousingLaw />} />
+        <Route path="*" element={<Navigate to="/" replace />}/>
       </Routes>
     </HashRouter>
   )
