@@ -17,5 +17,5 @@ const markdownLoader = () => {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), markdownLoader(), ViteYaml()],
-  base: "/housing_law_wiki/dist/"
+  base: "/housing_law_wiki/"
 })
