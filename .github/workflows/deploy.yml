@@ -1,28 +1,49 @@
-name: Build and Deploy to Pages
+name: Deploy
 
 on:
   push:
-    branches: ['main']
-
-permissions:
-  id-token: write
-  pages: write
+    branches:
+      - main
 
 jobs:
-  build-and-deploy:
+  build:
+    name: Build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+
+      - name: Install dependencies
+        uses: bahmutov/npm-install@v1
+
+      - name: Build project
+        run: npm run build
+
+      - name: Upload production-ready build files
+        uses: actions/upload-artifact@v4
         with:
-          node-version: lts/*
-          cache: 'npm'
-      - run: npm ci
-      - run: npm run build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+          name: production-files
+          path: ./dist
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
         with:
-          path: './dist'
-      - uses: actions/deploy-pages@v4
+          name: production-files
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
