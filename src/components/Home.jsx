@@ -20,7 +20,7 @@ const Home = () => {
     });
     return(
         <div>
-            <h1>Housing Law Wiki (v1)</h1>
+            <h1>Housing Law Wiki (v1.0)</h1>
             <calcite-card-group label="Housing Laws">
                 {LawLinkCards}
             </calcite-card-group>
