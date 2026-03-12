@@ -315,6 +315,8 @@ _Nothing in this provision prevents an applicant from requesting one story in ad
 
 **Answer**: _For the purposes of calculating a 50 percent adjustment, the adjustment would be the delta between the height maximum and the lowest point of the height transition._
 
+![Mandatory Adjustments Photo 1](./images/mandatory_adjustments_1.jpg)
+
 _For example, if a base zone required a reduction from a height maximum of 45 feet to 35 feet within a specified distance from a property line (i.e. a 10-foot delta between the highest and lowest point), the applicant may request this step down be adjusted from 35 feet to no greater than 40 feet (i.e. a 5-foot delta). See the diagram below illustrating the adjustment._
 
 _In a similar example, if a city applied a requirement for a building to fit within an 45-degree plane from a height maximum of 35 feet down to a terminus of 15 feet at the property line (i.e. a 20-foot delta between the highest and lowest point), the city must allow an adjustment to adjust the terminus from 15 feet to no greater than 25 feet (i.e. a 10-foot delta between the highest and lowest point)._
@@ -322,6 +324,8 @@ _In a similar example, if a city applied a requirement for a building to fit wit
 **Question:** How does the adjustment to building height transition requirement interact with the height adjustment in section 38 (4)(g)(B)?
 
 **Answer**: _The height adjustment increases the height maximum, which therefore increases the delta between the highest and lowest point of the height transition and should be incorporated in the adjustment. For example,_ _if a base zone required a reduction from a height maximum of 45 feet to 35 feet within a specified distance from a property line (i.e. a 20-foot delta between the highest and lowest point), and the applicant requested a height bonus bringing the maximum to 55 feet, the applicant may request the step down be adjusted from 35 feet to 45 feet (i.e. a 10-foot delta). See the diagram below illustrating the adjustment._
+
+![Mandatory Adjustments Photo 2](./images/mandatory_adjustments_1.jpg)
 
 **Question:** Does the adjustment to building height transition requirements apply to transition requirements applied through an overlay zone, even if the base zone does not contain a height transition requirement?
 

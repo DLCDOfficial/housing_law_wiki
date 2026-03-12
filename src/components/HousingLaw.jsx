@@ -15,8 +15,6 @@ const HousingLaw = () => {
                 setMarkdown(md);
             })
             .catch(() => {
-                // Invalid route (no md file by that name)
-                // Route back to root /
                 navigate("/");
             });
     }, []);
