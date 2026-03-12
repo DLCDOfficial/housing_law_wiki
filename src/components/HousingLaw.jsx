@@ -1,6 +1,8 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import Markdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { useState, useEffect } from 'react';
+import 'github-markdown-css';
 
 const HousingLaw = () => {
     const { law } = useParams();
@@ -19,8 +21,8 @@ const HousingLaw = () => {
             });
     }, []);
     return (
-        <div>
-            <Markdown>
+        <div className="markdown-body">
+            <Markdown remarkPlugins={[remarkGfm]}>
                 {markdown}
             </Markdown>
         </div>
