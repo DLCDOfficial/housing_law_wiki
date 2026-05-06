@@ -1,15 +1,24 @@
 - title: "Accessory dwelling unit (ADU)"
   route: "accessory_dwelling_unit"
   description: "Description of Accessory dwelling unit (ADU)"
-- title: "Building Code"
+  tags:
+    - "All Local Governments"
+    - "All Cities"
+- title: "All Local Governments"
   route: "building_code"
   description: "Description of Building Code"
+  tags:
+   - "All Cities"
 - title: "Building department process"
   route: "building_department_process"
   description: "Description of Building department process"
+  tags:
+    - "All Cities"
 - title: "By-right affordable housing"
   route: "by_right_affordable_housing"
   description: "Description of By-right affordable housing"
+  tags:
+    - "All Counties"
 - title: "By-right shelter conversion"
   route: "by_right_shelter_conversion"
   description: "Description of By-right shelter conversion"
