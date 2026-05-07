@@ -36,7 +36,7 @@
   description: "Description of Land use process, permitting, or procedure"
 - title: "Mandatory Adjustments/Flexibility to Development and Design Standards"
   route: "mandatory_adjustments"
-  description: "Description of Mandatory Adjustments/Flexibility to Development and Design Standards"
+  description: "Requires cities to grant adjustments to specific development & design standards for housing development meeting certain conditions."
 - title: "Manufactured and prefabricated homes and parks"
   route: "manufactured_and_prefab_homes_and_parks"
   description: "Description of Manufactured and prefabricated homes and parks"

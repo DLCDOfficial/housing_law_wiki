@@ -34,7 +34,7 @@ const ComboBox = ({ onChange }) => {
     return (
         <calcite-combobox
             oncalciteComboboxChange={comboBoxChanged}
-            placeholder="Select a field"
+            placeholder="Filter by applicability"
             ref={comboboxEl}
         >
             {_items}
@@ -64,7 +64,9 @@ const Home = () => {
     return(
         <div>
             <h1>Housing Law Wiki (draft)</h1>
-            <ComboBox onChange={setSelectedTags} />
+            <div>
+                <ComboBox onChange={setSelectedTags} />
+            </div>
             <calcite-card-group label="Housing Laws">
                 {LawLinkCards}
             </calcite-card-group>

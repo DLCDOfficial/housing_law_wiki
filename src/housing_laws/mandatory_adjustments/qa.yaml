@@ -1,0 +1,42 @@
+- question: "What is an adjustment?"
+  answer: "<strong>An adjustment</strong> is a deviation from an existing land use regulation."
+  html: true
+- question: "What does SB 1537 require related to adjustments?"
+  answer: "SB 1537 (section 38, chapter 110, Oregon Laws 2024) requires local governments grant adjustments to specific development and design standards applied to the development of housing if the application meets certain conditions."
+- question: "What does SB 1537 require related to adjustments?"
+  answer: "SB 1537 (section 38, chapter 110, Oregon Laws 2024) requires local governments grant adjustments to specific development and design standards applied to the development of housing if the application meets certain conditions."
+- question: "What types of housing applications are eligible for adjustments?"
+  answer: "<p>Section 38 (2) (a) through (g) outline all of the conditions that must be met to be eligible for an adjustment:</p>
+    <ul>
+      <li>The application is for a building permit or quasi-judicial, limited, or ministerial land use decision</li>
+      <li>The development is on lands zoned to allow for residential or mixed-use residential uses</li>
+      <li>The development meets minimum net densities articulated in Section 55 (3)(a)(C):
+        <ul>
+          <li>17 du/ac in the Metro UGB</li>
+          <li>10 du/ac in cities of 30,000 population or more (not in the Metro UGB)</li>
+          <li>6 du/ac in cities of 2,500 population or more (not in the Metro UGB)</li>
+          <li>5 du/ac in cities less than 2,500 population (not in the Metro UGB)</li>
+        </ul>
+      </li>
+      <li>The development is within an urban growth boundary, not including unincorporated lands</li>
+      <li>The development is of net new housing units, including single-family, multifamily, mixed-use, manufactured home parks, accessory dwellings, or middle housing</li>
+      <li>The application requests no more than 10 distinct adjustments, and</li>
+      <li>The application states how at least one of the following criteria applies:
+        <ul>
+          <li>The adjustment makes housing development feasible when it otherwise would not be</li>
+          <li>The adjustment reduces the sale/rental price per unit</li>
+          <li>The adjustment will increase the number of units in the application</li>
+          <li>All units are subject to an affordable housing covenant to be affordable to moderate income (80-120% Median Family Income) households for at least 30 years</li>
+          <li>20% of units are subject to an affordable housing covenant to be affordable to low-income households (≤80% Median Family Income) for at least 60 years</li>
+          <li>The adjustment enables the provision of accessibility or visitability features that would not otherwise be feasible</li>
+          <li>The units are subject to a zero equity, limited equity, or shared equity ownership model making them affordable to moderate income households for 90 years.</li>
+        </ul>
+      </li>
+    </ul>"
+  html: true
+- question: "Are counties required to grant adjustments on unincorporated lands?"
+  answer: "No. Applications are only eligible for adjustments on lands within a UGB and annexed to a city."
+- question: "What procedure must a local government use to process adjustment requests?"
+  answer: "Adjustments made under this statute are limited land use decisions. A city may use an existing process or develop and apply a new process that complies with the requirements of statute."
+- question: "What counts as a 'distinct adjustment'?"
+  answer: "A distinct adjustment is an adjustment to one of the development or design standards listed in Section 58 (4) or (5) where each discrete adjustment to a listed development or design standard that includes multiple component standards must be counted as an individual adjustment."
