@@ -1,42 +1,46 @@
 # Mandatory Adjustments
 
+<details>
+<summary>View Description</summary>
+<p>
+
 This housing law requires local governments to grant adjustments to specific development and design standards applied to the development of housing if an application meets certain conditions. An 'adjustment' is a deviation from an existing land use regulation. In order for a residential application to qualify for an adjustment, the applicant must submit the following information to the local government as part of a development application confirming:
 
-(a) The application is for a building permit or a quasi-judicial, limited or ministerial land use decision.
+1. The application is for a building permit or a quasi-judicial, limited or ministerial land use decision.
 
-(b) The development is on lands zoned to allow for residential uses, including mixed-use residential uses.
+1. The development is on lands zoned to allow for residential uses, including mixed-use residential uses.
 
-(c) Site information demonstrating that the development proposal, in total on the site, meets the minimum net residential densities of Section 55 (3)(a)(C), including:
+1. Site information demonstrating that the development proposal, in total on the site, meets the minimum net residential densities of Section 55 (3)(a)(C), including:
 
-(i) 17 dwelling units per net residential acre if sited within the Metro urban growth boundary,
+    1. 17 dwelling units per net residential acre if sited within the Metro urban growth boundary,
 
-(ii) 10 units per net residential acre if sited in a city with a population of 30,000 or greater,
+    1. 10 units per net residential acre if sited in a city with a population of 30,000 or greater,
 
-(iii) 6 units per net residential acre if sited in a city with a population of 2,500 or greater and less than 30,000, or
+    1. 6 units per net residential acre if sited in a city with a population of 2,500 or greater and less than 30,000, or
 
-(iv) 5 units per net residential acre if sited in a city with a population less than 2,500.
+    1. 5 units per net residential acre if sited in a city with a population less than 2,500.
 
-(d) The development is both within an urban growth boundary and annexed to a city.
+1. The development is both within an urban growth boundary and annexed to a city.
 
-(e) Site information confirming that the development will create net new housing units that include: single-family, multifamily, mixed-use residential where at least 75 percent of the developed floor area will be used for residential uses, manufactured dwelling parks, accessory dwelling units, or middle housing as defined in ORS 197A.420
+1. Site information confirming that the development will create net new housing units that include: single-family, multifamily, mixed-use residential where at least 75 percent of the developed floor area will be used for residential uses, manufactured dwelling parks, accessory dwelling units, or middle housing as defined in ORS 197A.420
 
-(f) The total requested adjustments do not exceed 10 distinct adjustments (_note: each standard listed in the table below counts as one distinct adjustment, even if the application requests multiple components within that category_)
+1. The total requested adjustments do not exceed 10 distinct adjustments (_note: each standard listed in the table below counts as one distinct adjustment, even if the application requests multiple components within that category_)
 
-(g) A statement of how one of the following criteria apply:
+1. A statement of how one of the following criteria apply:
 
-(A) The adjustment makes housing development feasible when it otherwise would not be due to cost or delay,
+    1. The adjustment makes housing development feasible when it otherwise would not be due to cost or delay,
 
-(B) The adjustment reduces the sale or rental price per unit,
+    1. The adjustment reduces the sale or rental price per unit,
 
-(C) The adjustment will increase the number of units in the application,
+    1. The adjustment will increase the number of units in the application,
 
-(D) All units are subject to an affordable housing covenant to be affordable to moderate income (80-120% Median Family Income) households for at least 30 years,
+    1. All units are subject to an affordable housing covenant to be affordable to moderate income (80-120% Median Family Income) households for at least 30 years,
 
-(E) 20% of units are subject to an affordable housing covenant to be affordable to low-income households (≤80% Median Family Income) for at least 60 years,
+    1. 20% of units are subject to an affordable housing covenant to be affordable to low-income households (≤80% Median Family Income) for at least 60 years,
 
-(F) The adjustment enables the provision of accessibility or visitability features that would not otherwise be feasible, or
+    1. The adjustment enables the provision of accessibility or visitability features that would not otherwise be feasible, or
 
-(G) The units are subject to a zero equity, limited equity, or shared equity ownership model making them affordable to moderate income households for 90 years.
+    1. The units are subject to a zero equity, limited equity, or shared equity ownership model making them affordable to moderate income households for 90 years.
 
 Eligible development and design standards include:
 
@@ -75,7 +79,14 @@ The law also allows local governments to request an exemption granted by HAPO to
 
 As part of required permitted and produced reporting, local governments are required to report residential development produced through approvals of adjustments granted under this housing law. This reporting is currently under development.
 
+</p>
+</details>
+
 ## Related Materials
+
+<details>
+<summary>View Related Materials</summary>
+<p>
 
 **Documents and Additional Guidance**
 
@@ -110,3 +121,5 @@ Mandatory Adjustment Model Code Module (in development)
 **Administrative Rules**
 
 None
+</p>
+</details>

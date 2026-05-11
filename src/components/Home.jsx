@@ -64,12 +64,14 @@ const Home = () => {
     return(
         <div>
             <h1>Housing Law Wiki (draft)</h1>
-            <div>
+            <div className="filter">
                 <ComboBox onChange={setSelectedTags} />
             </div>
-            <calcite-card-group label="Housing Laws">
-                {LawLinkCards}
-            </calcite-card-group>
+            <div className="container">
+                <calcite-card-group label="Housing Laws">
+                    {LawLinkCards}
+                </calcite-card-group>
+            </div>
         </div>
     );
 };

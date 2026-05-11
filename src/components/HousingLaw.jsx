@@ -1,8 +1,10 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import { useState, useEffect } from 'react';
 import 'github-markdown-css';
+import "./HousingLaw.css";
 
 const QuestionsAnswers = ({ items }) => {
     const accordionItems = items.map(({ question, answer, html }, index) => (
@@ -50,10 +52,10 @@ const HousingLaw = () => {
     }, []);
     return (
         <div className="markdown-body">
-            <Markdown remarkPlugins={[remarkGfm]}>
+            <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
                 {markdown}
             </Markdown>
-            <h2>Question and Answer</h2>
+            <h2>Questions and Answers</h2>
             { qa && <QuestionsAnswers items={qa} /> }
         </div>
     );

@@ -1,15 +1,8 @@
 calcite-card {
-    width: 240px;
+    flex: 1 1 240px;
 }
 
-@media (max-width: 800px) {
-    calcite-card {
-        width: calc(100% / 2 - .5rem);
-    }
+.filter {
+    margin-bottom: .50rem;
 }
 
-@media (max-width: 400px) {
-    calcite-card {
-        width: 100%;
-    }
-}
