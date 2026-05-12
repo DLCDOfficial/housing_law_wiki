@@ -1,0 +1,4 @@
+ol {
+    list-style-type: upper-alpha; /* Changes 1, 2, 3 to a, b, c */
+    padding-left: 2rem;
+}
