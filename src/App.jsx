@@ -8,7 +8,7 @@ import './App.css';
 const Disclaimer = () => {
   const [isOpen, setisOpen] = useState(true);
   return (
-    <calcite-dialog modal open={isOpen} heading="HAPO Housing Law Wiki" id="app-disclaimer">
+    <calcite-dialog modal open={isOpen} heading="HAPO Housing Law Library" id="app-disclaimer">
       Disclaimer text goes here...
       <calcite-button id="close-button" slot="footer-end" onClick={() => {setisOpen(false)}}>Close</calcite-button>
     </calcite-dialog>
