@@ -55,8 +55,13 @@ const HousingLaw = () => {
             <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
                 {markdown}
             </Markdown>
-            <h2>Questions and Answers</h2>
-            { qa && <QuestionsAnswers items={qa} /> }
+	    	<h2>Questions and Answers</h2>
+            {qa && (
+                <details>
+                    <summary>View FAQs</summary>
+                    <QuestionsAnswers items={qa} />
+                </details>
+            )}
         </div>
     );
 };

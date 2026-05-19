@@ -63,7 +63,17 @@ const Home = () => {
     });
     return(
         <div>
-            <h1>Housing Law Wiki (draft)</h1>
+            <h1>Housing Law Library (draft)</h1>
+            <section className="overview">
+                <h2>Overview</h2>
+                <p>
+                    Hi brains mindless mortuis limbic cortex soulless creaturas optic nerve, 
+                    imo evil braaiinns stalking monstra hypothalamus adventus resi 
+                    hippocampus dentevil vultus brain comedat cerebella pitiutary gland 
+                    viventium
+                    
+                </p>
+            </section>
             <div className="filter">
                 <ComboBox onChange={setSelectedTags} />
             </div>
