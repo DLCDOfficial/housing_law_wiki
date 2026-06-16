@@ -9,7 +9,6 @@
   description: "Description of Accessory dwelling unit (ADU)"
   tags:
     - "All Local Governments"
-    - "All Cities"
     - "Urban Unincorporated Areas"
 - title: "All Local Governments"
   route: "building_code"
