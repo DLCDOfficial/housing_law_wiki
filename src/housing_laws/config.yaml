@@ -4,6 +4,13 @@
   tags:
     - "All Local Governments"
     - "All Cities"
+- title: "Clear and Objective Standards"
+  route: "clear_and_objective_standards"
+  description: "Description of Accessory dwelling unit (ADU)"
+  tags:
+    - "All Local Governments"
+    - "All Cities"
+    - "Urban Unincorporated Areas"
 - title: "All Local Governments"
   route: "building_code"
   description: "Description of Building Code"
