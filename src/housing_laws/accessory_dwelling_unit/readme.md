@@ -1,35 +1,58 @@
-# Housing Law
+# Accessory Dwelling Units
 
-This field is the category or topic of housing law. My thinking is we utilize the same categories in our Smartsheet so there is parity between the two.
+<details>
+<summary>Housing Law Summary</summary>
+<p>
 
-# Short Description
+This law requires, within urban growth boundaries, cities with a population greater than 2,500 and counties with a population greater than 15,000 to allow, in areas zoned for detached single-unit dwellings, the development of at least one accessory dwelling unit (ADU) for each detached single-unit dwelling, subject to reasonable local regulations relating to siting and design. The law specifies that requirements for off-street parking and owner-occupancy are not “reasonable local regulations relating to siting and design,” with the exception of ADUs that are used as vacation rentals. 
 
-This will be a very brief (~140 character) description of the housing law, similar to our current guidance doc but adapted to fit on the cards for each topic.
+Note: This law is distinct from ORS 215.495 and 501, which provides a county the option to allow accessory dwelling units in areas zoned for rural residential use meeting certain requirements. This is not a housing law but is mentioned for clarity.
 
-# Long Description
+</p>
+</details>
 
-This will be a longer description of the law accessed by clicking on the card. In terms of depth/detail, these will be comparable to the summaries of legislation in the 2025 Session Guidance doc, but adapted to describe the law as it is today (not how it has changed). The mandatory adjustment summary is also a comparable summary in terms of length/formatting.
+## Related Materials
 
-# Housing Project Examples
+<details>
+<summary>View Related Materials</summary>
+<p>
 
-This isn’t so much a field as it is a database where we can provide project examples that make use of a given law (or laws). We would enter the project name, description of the project (and how it used the relevant law), any associated images, and a housing law category that is filterable, so they show up on the right page.
+**Model Codes**
 
-Note that this component is not critical for launch. We could build it after launch.
+[Housing Model Code for Small Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_SmallCities_HousingModelCode.pdf)
 
-# Related Materials
+[Housing Model Code for Medium Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_MediumCities_HousingModelCode.pdf)
 
-This will link to any relevant materials we or others produce on housing laws. Examples include one-pagers, graphical aids, model codes, webinar recordings, etc.
+[Housing Model Code for Large Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_LargeCities_HousingModelCode.pdf)
 
-# Related Statutes/Laws, Bills, and Administrative Rules
+## Related Statutes/Laws, Bills, and Administrative Rules
 
-This will be a list of and links to relevant statutes, bills, and administrative rules. A few questions for how we structure this one:
+**Oregon Revised Statute**
 
-1. Should we include a brief 140-character description for each item? For example, a bill summary describing briefly how it affected the law.
+[ORS Chapter 197A.425 - Accessory Dwelling Units](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html)
 
-2. We could break this out into each component (i.e. statute/law is separate from bills is separate from rules), which is cleaner but might take more real estate
+**Oregon Laws**
 
-3. I do not think we ought to cite case law at this time given that we lack the means to do the research and cannot offer legal advice to cities. Open to revisiting in the future if we identify important case law that we think needs to be external.
+[Oregon Laws 2017, chapter 745, section 6](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2017orlaw0745.pdf)
 
-# Question and Answer
+[Oregon Laws 2018, chapter 15, section 7](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2018orlaw0015.pdf)
 
-This is less a distinct field and more of a database for all of the questions and answers we receive for commonly asked questions. This should be searchable and filterable by housing law topic. Under each card, we should have a window containing the Q/A already set to the right housing law filter to show questions for that particular law.
+[Oregon Laws 2019, chapter 639, section 7](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2019orlaw0639.pdf)
+
+[Oregon Laws 2025, chapter 476, multiple sections](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0476.pdf)
+
+**Bills**
+
+[Senate Bill 1051 (2017 Session)](https://olis.oregonlegislature.gov/liz/2017R1/Measures/Overview/SB1051)
+
+[House Bill 4031 (2018 Session)](https://olis.oregonlegislature.gov/liz/2018R1/Measures/Overview/HB4031)
+
+[House Bill 2001 (2019 Session)](https://olis.oregonlegislature.gov/liz/2019R1/Measures/Overview/HB2001)
+
+[House Bill 2138 (2025 Session)](https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2138)
+
+**Administrative Rules**
+
+Rulemaking pending.
+</p>
+</details>
