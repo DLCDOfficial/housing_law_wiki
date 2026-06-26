@@ -31,7 +31,7 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 ## Related Statutes/Laws, Bills, and Administrative Rules
 
 <details>
-<summary>View Related Materials</summary>
+<summary>View Related Statutes, Laws, Bills, and Administrative Rules</summary>
 <p>
 
 **Oregon Revised Statute**
