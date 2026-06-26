@@ -25,7 +25,14 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 
 [Housing Model Code for Large Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_LargeCities_HousingModelCode.pdf)
 
+</p>
+</details>
+
 ## Related Statutes/Laws, Bills, and Administrative Rules
+
+<details>
+<summary>View Related Materials</summary>
+<p>
 
 **Oregon Revised Statute**
 
