@@ -17,7 +17,7 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 <summary>View Related Materials</summary>
 <p>
 
-**Model Codes**
+### Model Codes
 
 [Housing Model Code for Small Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_SmallCities_HousingModelCode.pdf)
 
@@ -34,11 +34,11 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 <summary>View Related Statutes, Laws, Bills, and Administrative Rules</summary>
 <p>
 
-**Oregon Revised Statute**
+### Oregon Revised Statute
 
 [ORS Chapter 197A.425 - Accessory Dwelling Units](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html)
 
-**Oregon Laws**
+### Oregon Laws
 
 [Oregon Laws 2017, chapter 745, section 6](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2017orlaw0745.pdf)
 
@@ -48,7 +48,7 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 
 [Oregon Laws 2025, chapter 476, multiple sections](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0476.pdf)
 
-**Bills**
+### Bills
 
 [Senate Bill 1051 (2017 Session)](https://olis.oregonlegislature.gov/liz/2017R1/Measures/Overview/SB1051)
 
@@ -58,7 +58,7 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 
 [House Bill 2138 (2025 Session)](https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2138)
 
-**Administrative Rules**
+### Administrative Rules
 
 Rulemaking pending.
 </p>
