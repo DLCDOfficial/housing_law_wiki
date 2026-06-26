@@ -108,9 +108,9 @@ Mandatory Adjustment Model Code Module (in development)
 
 **Oregon Laws**
 
-[Section 38 to 41, chapter 110, Oregon Laws 2024](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2024orLaw0110.pdf)
+[Oregon Laws 2024, chapter 110, section 38 to 41](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2024orLaw0110.pdf)
 
-[Section 3, chapter 530, Oregon Laws 2025](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0530.pdf)
+[Oregon Laws 2025, chapter 530, section 3](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0530.pdf)
 
 **Bills**
 
