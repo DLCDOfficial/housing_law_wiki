@@ -100,11 +100,18 @@ Mandatory Adjustment Model Code Module (in development)
 
 [Flexibilities to Housing Development and Design Standards Dashboard](https://geo.maps.arcgis.com/apps/dashboards/04337d6378a24ba5b9bb6c9f7f5b3c9c)
 
+</p>
+</details>
+
 ## Related Statutes/Laws, Bills, and Administrative Rules
+
+<details>
+<summary>View Related Statutes, Laws, Bills, and Administrative Rules</summary>
+<p>
 
 **Oregon Revised Statute**
 
-[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html#:~:text=%28Temporary%20provisions%20relating%20to%20housing%20land%20use%20adjustments%29)
+[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html9)
 
 **Oregon Laws**
 
