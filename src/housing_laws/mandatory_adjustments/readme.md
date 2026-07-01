@@ -1,7 +1,7 @@
 # Mandatory Adjustments
 
 <details>
-<summary>View Description</summary>
+<summary>Housing Law Summary</summary>
 <p>
 
 This housing law requires local governments to grant adjustments to specific development and design standards applied to the development of housing if an application meets certain conditions. An 'adjustment' is a deviation from an existing land use regulation. In order for a residential application to qualify for an adjustment, the applicant must submit the following information to the local government as part of a development application confirming:
@@ -42,7 +42,7 @@ This housing law requires local governments to grant adjustments to specific dev
 
     1. The units are subject to a zero equity, limited equity, or shared equity ownership model making them affordable to moderate income households for 90 years.
 
-Eligible development and design standards include:
+### Eligible development and design standards:
 
 | **§ 38**                                                                                                   | **Development or Design Standard**                                                                                                                               | **Required Eligible Adjustment Amount**                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,11 +71,11 @@ Eligible development and design standards include:
 | (5)(h)(D)\*                                                                                                | Requirements for recesses and offsets                                                                                                                            | Must be eligible for a full adjustment                                                                                                                                                                                                                                                   |
 | _\*Only applicable to manufactured dwelling parks, middle housing, multi-unit, and mixed use residential._ |                                                                                                                                                                  |                                                                                                                                                                                                                                                                                          |
 
-**Mandatory Adjustment Exemptions**
+### Mandatory Adjustment Exemptions
 
 The law also allows local governments to request an exemption granted by HAPO to the process above if a local government meets certain requirements. The local government must demonstrate that they utilize a process or processes by which all the listed development and design adjustments above may be granted, and the local government has either granted 90% of all requested adjustments in the last 5 years or submits testimony from housing developers demonstrating a flexible adjustment process that accommodates project needs. You can track the status of exemption requests at the [HAPO Mandatory Adjustment Exemption Application Dashboard](https://geo.maps.arcgis.com/apps/dashboards/04337d6378a24ba5b9bb6c9f7f5b3c9c).
 
-**Mandatory Adjustment Reporting**
+### Mandatory Adjustment Reporting
 
 As part of required permitted and produced reporting, local governments are required to report residential development produced through approvals of adjustments granted under this housing law. This reporting is currently under development.
 
@@ -88,7 +88,7 @@ As part of required permitted and produced reporting, local governments are requ
 <summary>View Related Materials</summary>
 <p>
 
-**Documents and Additional Guidance**
+### Documents and Additional Guidance
 
 [Flexibilities for Housing Development and Design Standards One Page Summary](https://www.oregon.gov/lcd/Housing/Documents/20250306_HAPO_MandatoryAdjustments_OnePager.pdf)
 
@@ -96,29 +96,36 @@ As part of required permitted and produced reporting, local governments are requ
 
 Mandatory Adjustment Model Code Module (in development)
 
-**Web Resources**
+### Web Resources
 
 [Flexibilities to Housing Development and Design Standards Dashboard](https://geo.maps.arcgis.com/apps/dashboards/04337d6378a24ba5b9bb6c9f7f5b3c9c)
 
+</p>
+</details>
+
 ## Related Statutes/Laws, Bills, and Administrative Rules
 
-**Oregon Revised Statute**
+<details>
+<summary>View Related Statutes, Laws, Bills, and Administrative Rules</summary>
+<p>
 
-[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html#:~:text=%28Temporary%20provisions%20relating%20to%20housing%20land%20use%20adjustments%29)
+### Oregon Revised Statute
 
-**Oregon Laws**
+[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html)
 
-[Section 38 to 41, chapter 110, Oregon Laws 2024](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2024orLaw0110.pdf)
+### Oregon Laws
 
-[Section 3, chapter 530, Oregon Laws 2025](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0530.pdf)
+[Oregon Laws 2024, chapter 110, section 38 to 41](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2024orLaw0110.pdf)
 
-**Bills**
+[Oregon Laws 2025, chapter 530, section 3](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0530.pdf)
+
+### Bills
 
 [Senate Bill 1537 (2024 Session)](https://olis.oregonlegislature.gov/liz/2024R1/Measures/Overview/SB1537)
 
 [Senate Bill 48 (2025 Session)](https://apps.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB48)
 
-**Administrative Rules**
+### Administrative Rules
 
 None
 </p>

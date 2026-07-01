@@ -1,35 +1,72 @@
-# Housing Law
+# Mandatory Adjustments
 
-This field is the category or topic of housing law. My thinking is we utilize the same categories in our Smartsheet so there is parity between the two.
+<details>
+<summary>Housing Law Summary</summary>
+<p>
 
-# Short Description
+This law prohibits local governments from applying “residential design standards” to an application for the development of housing within an urban growth boundary, unless the application is for the development of a multiunit structure or fewer than 20 residential units. This prohibition sunsets on January 2, 2033
 
-This will be a very brief (~140 character) description of the housing law, similar to our current guidance doc but adapted to fit on the cards for each topic.
+“Residential design standards” means standards intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes, and includes:
 
-# Long Description
+  (A) Facade materials, colors or patterns;
+  
+  (B) Roof decoration, form or materials;
+  
+  (C) Accessories, materials or finishes for entry doors or garages;
+  
+  (D) Window elements such as trim, shutters or grids;
+  
+  (E) Fence type, design or finishes;
+  
+  (F) Architectural details, such as ornaments, railings, cornices and columns;
+  
+  (G) Size and design of porches or balconies;
+  
+  (H) Variety of design or floorplan; or
+  
+  (I) Front or back yard area landscaping materials or vegetation.
 
-This will be a longer description of the law accessed by clicking on the card. In terms of depth/detail, these will be comparable to the summaries of legislation in the 2025 Session Guidance doc, but adapted to describe the law as it is today (not how it has changed). The mandatory adjustment summary is also a comparable summary in terms of length/formatting.
+</p>
+</details>
 
-# Housing Project Examples
+## Related Materials
 
-This isn’t so much a field as it is a database where we can provide project examples that make use of a given law (or laws). We would enter the project name, description of the project (and how it used the relevant law), any associated images, and a housing law category that is filterable, so they show up on the right page.
+<details>
+<summary>View Related Materials</summary>
+<p>
 
-Note that this component is not critical for launch. We could build it after launch.
+### Documents and Additional Guidance
 
-# Related Materials
+Residential Design Standards Model Code Module (in development)
 
-This will link to any relevant materials we or others produce on housing laws. Examples include one-pagers, graphical aids, model codes, webinar recordings, etc.
+</p>
+</details>
 
-# Related Statutes/Laws, Bills, and Administrative Rules
+## Related Statutes/Laws, Bills, and Administrative Rules
 
-This will be a list of and links to relevant statutes, bills, and administrative rules. A few questions for how we structure this one:
+<details>
+<summary>View Related Statutes, Laws, Bills, and Administrative Rules</summary>
+<p>
 
-1. Should we include a brief 140-character description for each item? For example, a bill summary describing briefly how it affected the law.
+### Oregon Revised Statute
 
-2. We could break this out into each component (i.e. statute/law is separate from bills is separate from rules), which is cleaner but might take more real estate
+[ORS Chapter 197A - (Temporary provisions relating to limits on applying residential design standards)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html)
 
-3. I do not think we ought to cite case law at this time given that we lack the means to do the research and cannot offer legal advice to cities. Open to revisiting in the future if we identify important case law that we think needs to be external.
+### Oregon Laws
 
-# Question and Answer
+[Oregon Laws 2025, chapter 330, section 8 to 9](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2025orlaw0330.pdf)
 
-This is less a distinct field and more of a database for all of the questions and answers we receive for commonly asked questions. This should be searchable and filterable by housing law topic. Under each card, we should have a window containing the Q/A already set to the right housing law filter to show questions for that particular law.
+[Oregon Laws 2026, chapter 79, section 12](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2026orlaw0079.pdf)
+
+### Bills
+
+[Senate Bill 974 (2025 Session)](https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB974)
+
+[Senate Bill 1521 (2026 Session)](https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1521)
+
+### Administrative Rules
+
+Rulemaking pending
+
+</p>
+</details>
