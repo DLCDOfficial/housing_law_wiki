@@ -111,7 +111,7 @@ Mandatory Adjustment Model Code Module (in development)
 
 ### Oregon Revised Statute
 
-[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html9)
+[ORS Chapter 197A - (Temporary provisions relating to housing land use adjustments)](https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html)
 
 ### Oregon Laws
 
