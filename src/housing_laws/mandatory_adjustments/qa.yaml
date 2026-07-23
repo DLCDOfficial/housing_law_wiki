@@ -1,10 +1,8 @@
 - question: "What is an adjustment?"
-  answer: "<strong>An adjustment</strong> is a deviation from an existing land use regulation."
+  answer: "An adjustment is a deviation from an existing land use regulation. An adjustment does not include: 1) Use of a property that is otherwise not allowed in a zone. 2) Deviations from land use regulations or requirements related to accessibility, affordability, fire ingress or egress, safety, local tree codes, hazardous or contaminated site clean-up, wildlife protection, or statewide land use planning goals relating to natural resources, natural hazards, the Willamette River Greenway, estuarine resources, coastal shorelands, beaches and dunes or ocean resources. 3) A complete waiver of land use regulations or changes beyond explicitly requested and allowed adjustments. 4) Deviations to requirements related to fire or building codes, federal or state air, water quality or surface, ground or stormwater requirements, or requirements of any federal, state or local law other than a land use regulation."
   html: true
 - question: "What does SB 1537 require related to adjustments?"
-  answer: "SB 1537 (section 38, chapter 110, Oregon Laws 2024) requires local governments grant adjustments to specific development and design standards applied to the development of housing if the application meets certain conditions."
-- question: "What does SB 1537 require related to adjustments?"
-  answer: "SB 1537 (section 38, chapter 110, Oregon Laws 2024) requires local governments grant adjustments to specific development and design standards applied to the development of housing if the application meets certain conditions."
+  answer: "Section 38, chapter 100, Oregon Laws 2024 (Senate Bill 1537) requires local governments grant adjustments to specific development and design standards applied to the development of housing if the application meets certain conditions."
 - question: "What types of housing applications are eligible for adjustments?"
   answer: "<p>Section 38 (2) (a) through (g) outline all of the conditions that must be met to be eligible for an adjustment:</p>
     <ul>
@@ -39,4 +37,16 @@
 - question: "What procedure must a local government use to process adjustment requests?"
   answer: "Adjustments made under this statute are limited land use decisions. A city may use an existing process or develop and apply a new process that complies with the requirements of statute."
 - question: "What counts as a 'distinct adjustment'?"
-  answer: "A distinct adjustment is an adjustment to one of the development or design standards listed in Section 58 (4) or (5) where each discrete adjustment to a listed development or design standard that includes multiple component standards must be counted as an individual adjustment."
+  answer: "A distinct adjustment is an adjustment to one of the development or design standards listed in Section 58 (4) or (5) where each discrete adjustment to a listed development or design standard that includes multiple component standards must be counted as an individual adjustment.
+
+For example, if an applicant requested an adjustment to “roof forms and materials” (Section 38 (5)(c)), including an adjustment to both the form and the material the roof, that adjustment would count as one distinct adjustment.
+
+As another illustrating example, if an applicant requested an adjustment to “Side or rear setbacks, for an adjustment of not more than 10 percent” (Section 38 (4)(a)) for multiple lots in a subdivision, this would count as one distinct adjustment."
+- question: "Is “net residential density” defined for the purposes of mandatory adjustments?"
+  answer: "Yes. The bill requires a specific number of “units per net residential acre” to qualify for an adjustment based on city population size. A “net residential acre” means an acre of residentially designated buildable land, not including rights of way for streets, roads or utilities or areas not designated for development due to natural resource protections or environmental constraints."
+- question: "What evidence must be submitted to demonstrate section 38(2)(a) through (g) to qualify for an adjustment are met? How would a local government verify the conditions in the statute sufficient for an approval or denial?"
+  answer: "Section 38(2) states that an application qualifies for an adjustment only if the conditions specified between (a) through (g) are met. It does not provide additional clarity on the precise evidence that must be submitted by the applicant."
+- question: "Can a local government apply one or more conditions of approval to ensure that the requirements of section 38(2)(a) through (g) are met?"
+  answer: "Section 38 does not state whether a local government may or may not impose conditions of approval for approved adjustments."
+- question: "Will HAPO prepare a model code or set of standards local governments can apply to implement Section 38?"
+  answer: "Yes. HAPO is currently working on a new statutory model code module that local governments will be able to apply directly to land use decisions under OAR 660-008-0420, once it is adopted by the Land Conservation and Development Commission."
