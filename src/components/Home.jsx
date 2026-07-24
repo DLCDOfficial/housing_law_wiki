@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { useRef, useState } from 'react';
 import configYaml from '../housing_laws/config.yaml';
+import appYaml from '../app.yaml';
 import "./Home.css";
 
 const ComboBox = ({ onChange }) => {
@@ -43,6 +44,7 @@ const ComboBox = ({ onChange }) => {
 };
 
 const Home = () => {
+    console.log(appYaml);
     const [selectedTags, setSelectedTags] = useState([]);
     const LawLinkCards = configYaml.map(({title, route, description, tags}) => {
         tags = tags ?? [];
@@ -63,15 +65,11 @@ const Home = () => {
     });
     return(
         <div>
-            <h1>Housing Law Library (draft)</h1>
+            <h1>{appYaml.title}</h1>
             <section className="overview">
                 <h2>Overview</h2>
                 <p>
-                    Hi brains mindless mortuis limbic cortex soulless creaturas optic nerve, 
-                    imo evil braaiinns stalking monstra hypothalamus adventus resi 
-                    hippocampus dentevil vultus brain comedat cerebella pitiutary gland 
-                    viventium
-                    
+                    {appYaml.description}
                 </p>
             </section>
             <div className="filter">
