@@ -8,7 +8,7 @@ const ComboBox = ({ onChange }) => {
     let selectedTags = [];
     // Callback when new selection is made
     const comboBoxChanged = () => {
-        const { current: { selectedItems } } = comboboxEl;
+        let { current: { selectedItems } } = comboboxEl;
         selectedTags = selectedItems.map((item) => {
             return item.value;
         });

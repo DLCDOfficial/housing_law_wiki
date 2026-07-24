@@ -61,7 +61,7 @@ In addition, in residential zones that allow a manufactured dwelling park, citie
 
 **Documents and Additional Guidance**
 
-[Prefabricated and Module Housing Model Code One-page Summary](https://www.oregon.gov/lcd/Housing/Documents/One%20Pager%20Prefabricated%20and%20Modular%20Housing%20Model%20Code.pdf)
+[Prefabricated and Modular Housing Model Code One-page Summary](https://www.oregon.gov/lcd/Housing/Documents/One%20Pager%20Prefabricated%20and%20Modular%20Housing%20Model%20Code.pdf)
 
 [Prefabricated and Modular Housing Model Code and Audit Workbook](https://www.oregon.gov/lcd/Housing/Documents/Prefabricated_and_Modular_Housing_Model_Code_and_Audit_Workbook%20.pdf)
 
