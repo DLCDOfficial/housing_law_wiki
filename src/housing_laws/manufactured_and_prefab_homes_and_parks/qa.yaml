@@ -28,22 +28,39 @@ Cities, depending on their geography and population size, are required to allow 
 The definition also clarifies that manufactured dwelling park do not include subdivisions containing manufactured dwellings. This statutory definition clarifies that parks have a specific tenancy in which the park rents or leases spaces for individuals to place a manufactured dwelling or prefabricated home. This is distinct from a cottage cluster, in which units are permanently sited on a foundation and are either sold or rented."
 - question: "Does the Housing Model Code address manufactured homes, manufactured home parks, or manufactured home subdivisions?"
   answer: "The Housing Model Codes allow any housing type to be manufactured homes or prefabricated structures. However, the code does not currently include standards regulating manufactured home parks or subdivisions at this time."
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-  
+- question: "If HUD has requirements for manufactured homes foundation and skirting, can we require a manufactured home to be placed on an excavated and backfilled foundation no more than 12’’ above grade or does this conflict with the 2010 Oregon MDISC? What language is recommended for foundation and skirting requirements for manufactured homes?"
+  answer: "Prior to House Bill 4064 (2022), jurisdictions were able to adopt certain specific placement standards to manufactured homes, including a requirement to be placed on an excavated and back-filled foundation. This requirement was repealed by the bill. However, the 2010 Oregon Manufactured Dwelling Installation Specialty Code establishes specific foundation requirements for the placement of manufactured homes. HAPO recommends aligning with this specialty code and avoiding establishing standards that duplicate or potentially conflict with this specialty code."
+- question: "If Recreational Vehicles (RVs) are being lived in and a local government development code imposes a time limitation, does the local government have to allow them to be used as residences everywhere?"
+  answer: "ORS 197.493 prohibits a local government or state agency from prohibiting the placement of or imposing time limitations on the occupancy of an RV occupied as a residential dwelling in certain locations and circumstances. This includes manufactured dwelling parks, mobile home parks, recreational vehicle parks where lawfully connected to utilities, or on a lot or parcel with a manufactured dwelling or single-unit dwelling that is uninhabitable due to damage from a disaster. 
+
+In those circumstances, it is not permissible to prohibit or impose a time limitation on the occupancy of an RV. The law does not require local governments to allow RVs occupied as residential dwellings in other locations."
+- question: "What is the difference between a tiny home, recreational vehicle (RV), and tiny home on wheels?"
+  answer: "A “tiny home” is an umbrella term that refers to many kinds of structures, but is not statutorily defined.
+
+A “tiny home on wheels” is not a statutory term. Most often, tiny homes on wheels are regulated as Park Model Recreational Vehicles. 
+
+A “recreational vehicle” is defined in ORS 197.101 as a vehicle with or without motive power that is designed for use as temporary living quarters and as further defined by rule (OAR 735-022-0140).
+
+A “park model recreational vehicle” (PMRV) is a kind of recreational vehicle defined in ORS 803.306 and OAR 735-022-0140 as a recreational vehicle that:
+
+(a) Is designed for use as a temporary living quarters;
+
+(b) Is built on a single chassis mounted on wheels;
+
+(c) Has a gross trailer area that does not exceed 400 square feet;
+
+(d) Is more than eight and one-half feet wide; and
+
+(e) If manufactured in 1982 or later, certified by the manufacturer or builder, or the applicant if the PMRV is not new and no manufacturer or builder certification is available, as complying with the version of the ANSI A119.5 standard for the construction of park model recreational vehicles that was in effect at the time of manufacture.
+
+Park model recreational vehicles are regulated under the vehicle code. This is in contrast to permanent structures, which are regulated under the building code."
+- question: "Is there a model code for tiny homes or park model recreational vehicles which need to be movable yet retain appearance of a traditional home, as it might pertain to city in general and specific to floodplains and high risk areas?"
+  answer: "Questions related to floodplains and floodways extend into National Flood Insurance Program (NFIP) requirements and can be directed to the state NFIP coordinator. HAPO has not produced a model code for any of these structures."
+- question: "Are tiny homes on a chassis considered a recreational vehicle (RV)?"
+  answer: "Generally, yes. Most commonly, tiny homes on wheels are regulated as “park model recreational vehicles”, which are defined under ORS 803.036 as a kind of recreational vehicle meeting certain statutory parameters. Park model recreational vehicles are regulated under the vehicle code and generally require titling.
+
+HAPO is not otherwise aware of a statute that clarifies how to classify a tiny home on wheels that is not a park model recreational vehicle."
+- question: "Does state law allow older manufactured homes to be moved and placed on new foundations (i.e. does it prohibits restrictions on older manufactured homes?)"
+  answer: "State law requires local governments to allow manufactured homes and prefabricated structures on lots zoned to allow detached single-unit dwellings. A city may apply the same standards applied to equivalent site-built dwellings, with two exceptions (goal protections and thermal envelope performance standards equivalent to detached single unit dwellings under building code.) 
+
+A local regulation that specifically limits siting older manufactured homes on such lot most likely would not be able to be applied if it is a different standard than what applies to equivalent site-built dwellings. Also, there can be instances where standards applied to equivalent site-built dwellings make the siting an older manufactured home impracticable. Local government staff can best speak to the specific requirements in their zoning code that would apply to the development."
