@@ -1,19 +1,58 @@
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
+- question: "What is an accessory dwelling unit (ADU)?"
+  answer: "An accessory dwelling unit (ADU) is defined as “an interior, attached or detached residential structure that is used in connection with or that is accessory to a single-unit dwelling.” Colloquially, accessory dwelling units are often referred to by other names. Examples include “in-law suite, granny flat, guest house, or bonus home”."
+- question: "How many ADUs does the law allow?"
+  answer: "The law requires “at least one” ADU to be allowed for each detached single-unit dwelling in areas within an urban growth boundary zoned for detached single-unit dwellings."
+- question: "Can a local government allow more than one ADU for each detached single-unit dwelling?"
+  answer: "Nothing in ORS 197A.425 prohibits a local government from allowing more than one ADU in conjunction with a detached single-unit dwelling or other housing types. Local governments can choose to allow more than one accessory dwelling unit or to allow ADUs in conjunction with other housing types (e.g. townhouses). 
   
+  DLCD encourages local governments to consider allowing additional ADU options beyond what is required under statute, such as allowing both one detached and attached ADU, to provide additional housing choices in communities where ADUs are permitted. The Housing Model Codes allow ADUs in conjunction with a detached single-unit dwelling exceeding the requirement under ORS 197A.425. These allowances vary between city sizes but provide optional flexibilities that local governments may consider."
+- question: "Are local governments required to allow ADUs in conjunction with townhouses?"
+  answer: "No. Local governments must allow “at least one accessory dwelling unit for each detached single-unit dwelling”. A “townhouse” is defined as “a dwelling unit constructed in a row of two or more attached units, where each dwelling unit is located on an individual lot or parcel and shares at least one common wall with an adjacent unit.”
+  
+  Because townhouses are attached by definition, the requirement to allow ADUs does not extend to townhouses. Nothing in statute prohibits a local government from allowing an ADU in conjunction with a townhouse if they choose."
+- question: "Can a local government apply siting and design standards to ADUs?"
+  answer: "The law requires ADUs be allowed “subject to reasonable local regulations relating to siting and design.” Reasonable regulations relating to siting and design do not include owner-occupancy requirements of the primary of accessory structure, or requirements to construct additional off-street parking. The statutory prohibitions for owner-occupancy and off-street parking requirements do not extend to vacation occupancy of ADUs. 
+  
+  The Housing Model Codes include siting standards for ADUs and exempt ADUs from design standards, with the intent to make development of an ADU simple and straightforward for inexperienced developers, such as individual homeowners. These codes are adopted in administrative rule and are an option for local governments' consideration when updating local codes for conformance with housing laws.
+  
+  House Bill 2138 (2025) directed the Land Conservation and Development Commission to adopt rules that establish parameters on unreasonable cost or delay for siting and design standards for accessory dwelling units allowed under ORS 197A.425. Rules must be adopted on or before January 1, 2028."
+- question: "Are local governments required to allow manufactured homes as ADUs?"
+  answer: "Yes. ORS 197A.432 requires local governments to allow manufactured homes on all land zoned to allow the development of single-unit dwellings. OAR Chapter 660, Division 008 further clarifies that whether a unit is manufactured is a “characteristic” of housing, whereas an accessory dwelling unit is a “housing type”. This means that different housing types, such as detached single-unit, accessory dwelling units, or middle housing may be manufactured homes.
+  
+  Cities with a population greater than 2,500 population are required to allow accessory dwelling units under ORS 197A.425 on lands zoned for detached single-unit dwellings. The combined effect of statute and rule means that an ADU may be a manufactured home."
+- question: "Are local governments required to allow prefabricated ADUs?"
+  answer: "No. While prefabricated structures may be sited on all land zoned to allow the development of single-unit dwellings, a "prefabricated structure" is defined in ORS Chapter 197A as being "designed for use as a single-unit dwelling". This means that the protection for siting prefabricated structures under ORS 197A.432 only extends to single-unit dwellings and not other housing types."
+- question: "Are local governments required to allow recreational vehicles (RVs), tiny homes on wheels (THOWs), mobile homes, residential trailers, or other similar structures as ADUs?"
+  answer: "No. While state law protects the siting of these kinds of structures in manufactured dwelling parks, mobile home parks or recreational vehicle parks, nothing in state law requires local governments to allow these structures on land zoned to allow single-unit dwellings."
+- question: "Are ADUs considered “middle housing”?"
+  answer: "No. The statutory definition of “middle housing” does not include ADUs. Local governments often regulate ADUs differently than other housing types. For example, some jurisdictions may choose to provide waivers of system development charges (SDCs) for ADUs, but not for duplexes."
+- question: "What is the difference between an ADU and a duplex?"
+  answer: "With allowances for middle housing, especially new allowances for detached duplexes and triplexes, there may not be an apparent difference in form between a duplex and a single-unit dwelling with an ADU. However, an ADU is distinct in its statutory definition as being “used in connection with or that is accessory to a single-unit dwelling.”
+  
+  Where a development can meet the definition of more than one housing type, the local government may require the applicant specify the housing type on the development application."  
+- question: "Can a local government limit the size of an ADU? For example, if the local code provides that an ADU can be no more than a certain percentage of the primary structure, is this allowed?"
+  answer: "Local governments are allowed to apply reasonable siting and design requirements to the development of ADUs. Nothing in statute speaks precisely to standards that limit the size of the ADU based on the primary structure. However, LCDC was directed to adopt rules relating to the siting and design of ADUs by January 1, 2028 that may provide additional clarity on this topic."
+- question: "Can an ADU be built on a lot that has been developed with an existing duplex?"
+  answer: "State law requires a minimum of one ADU “for each detached single-unit dwelling” therefore development of an ADUs is not required to be allowed on a lot developed with a duplex (or other middle housing). Nothing in state law prevents a local government city from optionally allowing the development of an ADU on lots developed with middle housing.
+  
+  Additionally, ORS 197A.420(4) requires local governments that must allow middle housing to also allow the retention of an existing detached single-unit, single-unit and ADU, or duplex in conjunction with middle housing on a lot or parcel. While ADUs are not middle housing, this provides a pathway by which housing may be added to existing duplexes where this law is applicable. (Note that this provision is effective on January 1, 2027 or January 1, 2028 for cottage clusters)
+  
+  Questions related to specific zoning designations and allowed uses should be directed to the local planning department who can best speak to local zoning information."
+- question: "Can an ADU be converted to a duplex to make it “middle housing” and then placed on a separate lot through a middle housing land division?"
+  answer: "Nothing in state law requires allowing conversion of an accessory dwelling unit to middle housing, therefore it would depend on applicable local land use regulations. However, the definition of middle housing under ORS 197A.420 was amended to allow new flexibilities for attached and detached middle housing configurations, such as detached duplexes. This allows the addition of a second unit that may be divided via a middle housing land division.
+  
+  Additionally, ORS 197A.420(4) requires local governments that must allow middle housing to also allow the retention of an existing detached single-unit, single-unit and ADU, or duplex in conjunction with middle housing on a lot or parcel. While ADUs are not middle housing, this provides a pathway by which housing may be added to an existing duplexes where this law is applicable. (Note these new provisions are effective on January 1, 2027 or January 1, 2028 for cottage clusters.)"
+- question: "Is the development of an ADU allowed on lots created by a middle housing land division (i.e. “child lots”)?"
+  answer: "State law allows, but does not require, local governments to prohibit or add approval criteria to the allowance of a new ADU on, or a subsequent middle housing land division of, lots or parcels resulting from a middle housing land division (“child lots”) to the extent allowed under middle housing laws, provided the child lots may be used to create housing that meets the minimum density for the zoning of the land."
+- question: "Are middle housing land divisions required to be allowed for lots that are developed with an ADU?"
+  answer: "ORS 197A.420(4) requires local governments that must allow middle housing to also allow the retention of an existing detached single-unit, single-unit and ADU, or duplex in conjunction with middle housing on a lot or parcel. (Note this new provision is effective on January 1, 2027 or January 1, 2028 for cottage clusters.)"
+- question: "Are ADUs required to be allowed even if prohibited by Covenants, Conditions, and Restrictions (CC&Rs)?"
+  answer: "ORS 93.277 and ORS 94.776 retroactively invalidate certain restrictions on ADUs. ORS 93.277 applies generally to recorded instruments that are part of real estate transactions. ORS 94.776 applies in “planned communities.” Because these are not “housing laws” HAPO is unable to provide further guidance or support on this topic and advise consulting legal counsel."
+- question: "text"
+  answer: "text"
+- question: "text"
+  answer: "text"
+- question: "text"
+  answer: "text"
+- question: "text"
+  answer: "text"
