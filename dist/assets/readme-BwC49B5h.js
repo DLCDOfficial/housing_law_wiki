@@ -1,4 +1,4 @@
-# Residential design standards
+const n=`# Residential design standards
 
 <details>
 <summary>Housing Law Summary</summary>
@@ -70,3 +70,4 @@ Rulemaking pending
 
 </p>
 </details>
+`;export{n as default};

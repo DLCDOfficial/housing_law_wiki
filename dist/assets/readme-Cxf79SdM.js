@@ -1,4 +1,4 @@
-# Accessory Dwelling Units (ADU)
+const e=`# Accessory Dwelling Units (ADU)
 
 <details>
 <summary>Housing Law Summary</summary>
@@ -63,3 +63,4 @@ Note: This law is distinct from ORS 215.495 and 501, which provides a county the
 Rulemaking pending.
 </p>
 </details>
+`;export{e as default};

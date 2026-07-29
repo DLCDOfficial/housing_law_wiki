@@ -1,4 +1,4 @@
-# Middle housing
+const e=`# Middle housing
 
 <details>
 <summary>Housing Law Summary</summary>
@@ -130,3 +130,4 @@ The total number of bonus units that may be built depends on the middle housing 
 
 </p>
 </details>
+`;export{e as default};
