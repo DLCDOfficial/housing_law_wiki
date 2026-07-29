@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { useRef, useState } from 'react';
+import Markdown from 'react-markdown';
 import configYaml from '../housing_laws/config.yaml';
 import appYaml from '../app.yaml';
 import "./Home.css";
@@ -98,7 +99,9 @@ const Home = () => {
             <section className="overview">
                 <h2>Overview</h2>
                 <p>
-                    {appYaml.description}
+                    <Markdown>
+                        {appYaml.description}
+                    </Markdown>
                 </p>
             </section>
             <div className="filter">

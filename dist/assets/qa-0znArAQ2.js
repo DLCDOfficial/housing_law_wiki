@@ -1,1 +1,0 @@
-const t=[{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"},{question:"text",answer:"text"}];export{t as default};
