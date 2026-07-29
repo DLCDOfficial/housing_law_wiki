@@ -9,14 +9,17 @@
 - title: "Clear and Objective Standards; Alternative Discretionary Review"
   route: "clear_and_objective_standards"
   description: "In development. Coming soon."
+  development: true
   tags:
 - title: "By-right affordable housing"
   route: "by_right_affordable_housing"
   description: "In development. Coming soon."
+  development: true
   tags:
 - title: "Land use process, permitting, or procedure"
   route: "land_use_processes"
   description: "In development. Coming soon."
+  development: true
 - title: "Mandatory Adjustments; Flexibility to Development and Design Standards"
   route: "mandatory_adjustments"
   description: "Requires cities to grant adjustments to specific development & design standards for housing development meeting certain conditions."
@@ -59,9 +62,12 @@
 - title: "Residential homes and facilities"
   route: "residential_homes_and_facilities"
   description: "In development. Coming soon."
+  development: true
 - title: "Single room occupancies (SRO)"
   route: "single_room_occupancies"
   description: "In development. Coming soon."
+  development: true
 - title: "State model housing ordinances"
   route: "state_model_housing_ordinances"
   description: "In development. Coming soon."
+  development: true

@@ -44,21 +44,33 @@ const ComboBox = ({ onChange }) => {
 };
 
 const Home = () => {
-    console.log(appYaml);
     const [selectedTags, setSelectedTags] = useState([]);
-    const LawLinkCards = configYaml.map(({title, route, description, tags}) => {
+    const LawLinkCards = configYaml.map(({title, route, description, development, tags}) => {
         tags = tags ?? [];
         const hasMatch = selectedTags.length == 0 || tags.some(tag => selectedTags.includes(tag));
         return hasMatch ? (
             <calcite-card key={route} label={title}>
                 <span slot="heading">
-                    <Link to={`/laws/${route}`}>{title}</Link>
+                    {/* If the card is in development, don't link */}
+                    {
+                        development ?
+                            title 
+                            :
+                            <Link to={`/laws/${route}`}>{title}</Link>
+                    }
                 </span>
                 <p slot="description">{description}</p>
                 <div slot="footer-end">
-                    <calcite-chip value={`Go to ${title} page`} icon="link" scale="s">
-                        <Link to={`/laws/${route}`}>View</Link>
-                    </calcite-chip>
+                    {
+                        development ?
+                            <calcite-chip value={`Go to ${title} page`} icon="wrench" scale="s">
+                                Page in development
+                            </calcite-chip>
+                            :
+                            <calcite-chip value={`Go to ${title} page`} icon="link" scale="s">
+                                <Link to={`/laws/${route}`}>View</Link>
+                            </calcite-chip>
+                    }
                 </div>
             </calcite-card>
         ) : null;
