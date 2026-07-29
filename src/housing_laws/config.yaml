@@ -41,7 +41,7 @@
     - "Urban, unincorporated land within counties"
     - "Within urban growth boundaries"
 - title: "Middle housing land division (MHLD)"
-  route: "????"
+  route: "middle_housing_land_division"
   description: "Local governments must allow land divisions for middle housing development proposals"
   tags:
     - "Cities with a population of 1,000 or greater in Metro"
