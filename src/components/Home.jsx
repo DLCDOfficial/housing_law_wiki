@@ -59,7 +59,24 @@ const Home = () => {
                             <Link to={`/laws/${route}`}>{title}</Link>
                     }
                 </span>
-                <p slot="description">{description}</p>
+                <p slot="description">
+                    {description}
+                    {
+                        !development &&
+                        <p>
+                            <details>
+                                <summary>applicability</summary>
+                                <ul>
+                                    {tags.map((tag) => {
+                                        return <li>{tag}</li>
+                                    })}
+                                </ul>
+                            </details>
+
+                        </p>
+                    }
+                </p>
+
                 <div slot="footer-end">
                     {
                         development ?
