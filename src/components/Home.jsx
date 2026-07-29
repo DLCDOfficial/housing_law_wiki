@@ -22,7 +22,7 @@ const ComboBox = ({ onChange }) => {
     const uniqTags = new Set();
     configYaml.forEach((config) => {
         const { tags } = config;
-        if (tags) { uniqTags.add(...tags)}
+        if (tags) { tags.forEach((tag) => uniqTags.add(tag)) }
     });
     const _items = Array.from(uniqTags).map((tag) => {
         return (
