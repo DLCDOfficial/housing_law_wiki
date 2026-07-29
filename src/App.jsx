@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Markdown from 'react-markdown';
 import Home from './components/Home';
 import HousingLaw from './components/HousingLaw';
+import { LinkComponent } from './components/Utilities';
 import appYaml from './app.yaml';
 import './App.css';
 
@@ -11,7 +12,9 @@ const Disclaimer = () => {
   const [isOpen, setisOpen] = useState(true);
   return (
     <calcite-dialog modal open={isOpen} heading="HAPO Housing Law Library" id="app-disclaimer">
-      <Markdown>
+      <Markdown
+        components={ { a: LinkComponent }}
+      >
         {appYaml.disclaimer}
       </Markdown>
       <calcite-button id="close-button" slot="footer-end" onClick={() => {setisOpen(false)}}>Close</calcite-button>

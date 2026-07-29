@@ -3,6 +3,7 @@ import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { useState, useEffect } from 'react';
+import { LinkComponent } from './Utilities';
 import 'github-markdown-css';
 import "./HousingLaw.css";
 
@@ -52,7 +53,11 @@ const HousingLaw = () => {
     }, []);
     return (
         <div className="markdown-body">
-            <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+            <Markdown
+                components={ { a: LinkComponent }}
+                remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeRaw]}
+            >
                 {markdown}
             </Markdown>
 	    	<h2>Questions and Answers</h2>

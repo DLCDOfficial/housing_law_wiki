@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { useRef, useState } from 'react';
 import Markdown from 'react-markdown';
+import { LinkComponent } from "./Utilities";
 import configYaml from '../housing_laws/config.yaml';
 import appYaml from '../app.yaml';
 import "./Home.css";
@@ -99,7 +100,9 @@ const Home = () => {
             <section className="overview">
                 <h2>Overview</h2>
                 <p>
-                    <Markdown>
+                    <Markdown
+                        components={ { a: LinkComponent }}
+                    >
                         {appYaml.description}
                     </Markdown>
                 </p>
