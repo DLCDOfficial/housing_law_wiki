@@ -1,4 +1,4 @@
-const e=`# Accessory Dwelling Units
+const e=`# Accessory Dwelling Units (ADU)
 
 <details>
 <summary>Housing Law Summary</summary>

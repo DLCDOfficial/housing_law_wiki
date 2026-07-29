@@ -1,4 +1,4 @@
-const e=`# Middle Housing
+const e=`# Middle housing
 
 <details>
 <summary>Housing Law Summary</summary>

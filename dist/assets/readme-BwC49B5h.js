@@ -1,4 +1,4 @@
-const n=`# Mandatory Adjustments
+const n=`# Residential design standards
 
 <details>
 <summary>Housing Law Summary</summary>

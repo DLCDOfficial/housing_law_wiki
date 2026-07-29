@@ -1,4 +1,4 @@
-const e=`# Middle Housing Land Division (MHLD)
+const e=`# Middle housing land division (MHLD)
 
 <details>
 <summary>Housing Law Summary</summary>
