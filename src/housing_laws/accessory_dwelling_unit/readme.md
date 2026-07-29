@@ -1,4 +1,4 @@
-# Accessory Dwelling Units
+# Accessory Dwelling Units (ADU)
 
 <details>
 <summary>Housing Law Summary</summary>

@@ -1,4 +1,4 @@
-# Mandatory Adjustments
+# Residential design standards
 
 <details>
 <summary>Housing Law Summary</summary>

@@ -1,4 +1,4 @@
-# Middle Housing
+# Middle housing
 
 <details>
 <summary>Housing Law Summary</summary>

@@ -1,4 +1,4 @@
-# Mandatory Adjustments
+# Mandatory Adjustments; Flexibility to Development and Design Standards
 
 <details>
 <summary>Housing Law Summary</summary>
