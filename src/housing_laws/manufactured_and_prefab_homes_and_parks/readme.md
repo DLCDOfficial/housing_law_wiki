@@ -82,7 +82,7 @@ In addition, in residential zones that allow a manufactured dwelling park, citie
 
 **Bills**
 
-[House Bill 4064 (2022 Session)](https://olis.oregonlegislature.gov/liz/2022R1/Measures/Analysis/HB4064)
+[House Bill 4064 (2022 Session)](https://olis.oregonlegislature.gov/liz/2022R1/Measures/Overview/HB4064)
 
 [House Bill 2347 (2025 Session)](https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2347)
 
