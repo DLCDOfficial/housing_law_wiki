@@ -8,23 +8,23 @@ This law prohibits local governments from applying “residential design standar
 
 “Residential design standards” means standards intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes, and includes:
 
-  (A) Facade materials, colors or patterns;
+  - (A) Facade materials, colors or patterns;
   
-  (B) Roof decoration, form or materials;
+  - (B) Roof decoration, form or materials;
   
-  (C) Accessories, materials or finishes for entry doors or garages;
+  - (C) Accessories, materials or finishes for entry doors or garages;
   
-  (D) Window elements such as trim, shutters or grids;
+  - (D) Window elements such as trim, shutters or grids;
   
-  (E) Fence type, design or finishes;
+  - (E) Fence type, design or finishes;
   
-  (F) Architectural details, such as ornaments, railings, cornices and columns;
+  - (F) Architectural details, such as ornaments, railings, cornices and columns;
   
-  (G) Size and design of porches or balconies;
+  - (G) Size and design of porches or balconies;
   
-  (H) Variety of design or floorplan; or
+  - (H) Variety of design or floorplan; or
   
-  (I) Front or back yard area landscaping materials or vegetation.
+  - (I) Front or back yard area landscaping materials or vegetation.
 
 </p>
 </details>

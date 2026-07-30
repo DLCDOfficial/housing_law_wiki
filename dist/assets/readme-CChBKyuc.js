@@ -1,4 +1,4 @@
-# Manufactured and prefabricated homes and parks
+const e=`# Manufactured and prefabricated homes and parks
 
 <details>
 <summary>Housing Law Summary</summary>
@@ -93,3 +93,4 @@ In addition, in residential zones that allow a manufactured dwelling park, citie
 Rulemaking pending.
 </p>
 </details>
+`;export{e as default};
