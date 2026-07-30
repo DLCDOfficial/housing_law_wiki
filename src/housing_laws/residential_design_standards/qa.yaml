@@ -1,66 +1,85 @@
 - question: "What is a “residential design standard”?"
-  answer: "The statutory definition is "standards intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes." The definition includes a non-exhaustive list of residential design standards, including: 
-(A) Facade materials, colors or patterns;
-(B) Roof decoration, form or materials;
-(C) Accessories, materials or finishes for entry doors or garages;
-(D) Window elements such as trim, shutters or grids;
-(E) Fence type, design or finishes;
-(F) Architectural details, such as ornaments, railings, cornices and columns;
-(G) Size and design of porches or balconies;
-(H) Variety of design or floorplan; or
-(I) Front or back yard area landscaping materials or vegetation."
-- question: "How can one determine if a given standard is a "residential design standard" or not?"
-  answer: "While the law identifies some specific standards as residential design standards, the bill does not provide an exhaustive list of every development standard that falls within the definition. If a standard is not directly identified on the list of residential design standards, then whether a given standard is a residential design standard is contingent on whether the underlying purpose of the standard is "intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes."
+  answer: |
+    The statutory definition is "standards intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes." The definition includes a non-exhaustive list of residential design standards, including: 
+      (A) Facade materials, colors or patterns;
+      (B) Roof decoration, form or materials;
+      (C) Accessories, materials or finishes for entry doors or garages;
+      (D) Window elements such as trim, shutters or grids;
+      (E) Fence type, design or finishes;
+      (F) Architectural details, such as ornaments, railings, cornices and columns;
+      (G) Size and design of porches or balconies;
+      (H) Variety of design or floorplan; or
+      (I) Front or back yard area landscaping materials or vegetation.
+- question: |
+    How can one determine if a given standard is a "residential design standard" or not?
+  answer: |
+    While the law identifies some specific standards as residential design standards, the bill does not provide an exhaustive list of every development standard that falls within the definition. If a standard is not directly identified on the list of residential design standards, then whether a given standard is a residential design standard is contingent on whether the underlying purpose of the standard is "intended to preserve the desired character, architectural expression, decoration or aesthetic quality of new homes."
 
-Residential design standards do not include “land use regulations or requirements relating to setbacks, building height, accessibility, fire ingress or egress, public health or safety, state or federal water quality standards, hazardous or contaminated site cleanup or wildlife protection or that implement statewide land use planning goals relating to natural resources, natural hazards, the Willamette River Greenway, estuarine resources, coastal shorelands, beaches and dunes or ocean resources.”"
-- question: "Do "residential design standards" include all design standards applied to middle housing under ORS 197A.420(5)?"
-  answer: "The two definitions overlap but not completely. Under OAR 660-046-0020(4), A “Design Standard” means “a standard related to the arrangement, orientation, materials, appearance, articulation, or aesthetic of features on a dwelling unit or accessory elements on a site. Design standards include, but are not limited to, standards that regulate entry and dwelling orientation, façade materials and appearance, window coverage, driveways, parking configuration, pedestrian access, screening, landscaping, and private, open, shared, community, or courtyard spaces.”
+    Residential design standards do not include “land use regulations or requirements relating to setbacks, building height, accessibility, fire ingress or egress, public health or safety, state or federal water quality standards, hazardous or contaminated site cleanup or wildlife protection or that implement statewide land use planning goals relating to natural resources, natural hazards, the Willamette River Greenway, estuarine resources, coastal shorelands, beaches and dunes or ocean resources.”
+- question: |
+    Do "residential design standards" include all design standards applied to middle housing under ORS 197A.420(5)?
+  answer: |
+    The two definitions overlap but not completely. Under OAR 660-046-0020(4), A “Design Standard” means “a standard related to the arrangement, orientation, materials, appearance, articulation, or aesthetic of features on a dwelling unit or accessory elements on a site. Design standards include, but are not limited to, standards that regulate entry and dwelling orientation, façade materials and appearance, window coverage, driveways, parking configuration, pedestrian access, screening, landscaping, and private, open, shared, community, or courtyard spaces.”
 
-Some middle housing design standards also meet the definition of "residential design standards." Examples include facade materials, architectural details, and landscaping. These standards are subject to the required exemption. However, middle housing design standards that do not also meet the definition of "residential design standards" are not affected by the exemption. Examples include common open space, parking configuration, or pedestrian access.
+    Some middle housing design standards also meet the definition of "residential design standards." Examples include facade materials, architectural details, and landscaping. These standards are subject to the required exemption. However, middle housing design standards that do not also meet the definition of "residential design standards" are not affected by the exemption. Examples include common open space, parking configuration, or pedestrian access.
 
-Rulemaking is underway to conform the applicability of this law to middle housing. This rule will provide further clarity on the relationship between "residential design standards" as it relates to regulating the design of middle housing."
-- question: "Are there applications for the development of housing that are not eligible for exemptions to residential design standards?"
-  answer: "Yes, a city may require residential design standards for the development of housing within a UGB for either 1) Any application for the development of housing containing fewer than 20 units or 2) The development of a "multiunit structure" as defined in ORS 197A.465."
-- question: "What is a "multiunit structure"?"
-  answer: "Currently, a “multiunit structure” is defined in ORS 197A.465, which means "a structure that contains three or more housing units sharing at least one wall, floor or ceiling surface in common with another unit within the same structure." 
+    Rulemaking is underway to conform the applicability of this law to middle housing. This rule will provide further clarity on the relationship between "residential design standards" as it relates to regulating the design of middle housing.
+- question: |
+    Are there applications for the development of housing that are not eligible for exemptions to residential design standards?
+  answer: |
+    Yes, a city may require residential design standards for the development of housing within a UGB for either 1) Any application for the development of housing containing fewer than 20 units or 2) The development of a "multiunit structure" as defined in ORS 197A.465.
+- question: 
+    What is a "multiunit structure"?
+  answer: |
+    Currently, a “multiunit structure” is defined in ORS 197A.465, which means "a structure that contains three or more housing units sharing at least one wall, floor or ceiling surface in common with another unit within the same structure." 
 
-This definition is used for a separate law that authorizes cities and counties to establish affordable housing programs under ORS 197A.465, also referred to as “inclusionary” housing programs. 
+    This definition is used for a separate law that authorizes cities and counties to establish affordable housing programs under ORS 197A.465, also referred to as “inclusionary” housing programs. 
 
-However, SB 1521 (2026 Session) amends this definition. On January 1, 2028, the definition at ORS 197A.465 will be amended to mean "a structure that contains 10 or more dwelling units sharing at least one wall, floor or ceiling surface in common with another unit within the same structure.""
-- question: "Can an affected local government implement the "multiunit” definition prior to January 1, 2028?"
-  answer: "Yes, the law prohibits local governments from imposing residential design standards to qualifying development applications. The law does not confer an obligation to impose residential design standards, though a city may also choose to adhere to the statutory timelines for both the old and new definition.
+    However, SB 1521 (2026 Session) amends this definition. On January 1, 2028, the definition at ORS 197A.465 will be amended to mean "a structure that contains 10 or more dwelling units sharing at least one wall, floor or ceiling surface in common with another unit within the same structure."
+- question: |
+    Can an affected local government implement the "multiunit” definition prior to January 1, 2028?
+  answer: |
+    Yes, the law prohibits local governments from imposing residential design standards to qualifying development applications. The law does not confer an obligation to impose residential design standards, though a city may also choose to adhere to the statutory timelines for both the old and new definition.
 
-One caveat is that local governments are generally required to base the approval or denial of an application based on acknowledged land use regulations, so if a local government chooses to implement this provision early, it should be adopted into the development code. 
+    One caveat is that local governments are generally required to base the approval or denial of an application based on acknowledged land use regulations, so if a local government chooses to implement this provision early, it should be adopted into the development code. 
 
-HAPO is producing a forthcoming model code that will adhere to the statutory definitions and timelines. This resource can optionally be applied directly to a development application to comply directly with the law."
-- question: "Why is the definition of "multiunit housing" different than the Housing Model Codes?"
-  answer: "The statutory definition of "multiunit housing" is specific to only two laws - affordable housing (ORS 197A.465) and residential design standards (Or Laws 2025, ch 330, § 8, compiled as a note after ORS 197A.400). This definition is not universal, and most local definitions for "multiunit housing" vary between communities. 
+    HAPO is producing a forthcoming model code that will adhere to the statutory definitions and timelines. This resource can optionally be applied directly to a development application to comply directly with the law.
+- question: |
+    Why is the definition of "multiunit housing" different than the Housing Model Codes?
+  answer: |
+    The statutory definition of "multiunit housing" is specific to only two laws - affordable housing (ORS 197A.465) and residential design standards (Or Laws 2025, ch 330, § 8, compiled as a note after ORS 197A.400). This definition is not universal, and most local definitions for "multiunit housing" vary between communities. 
 
-The current Housing Model Codes utilize the following definition: “Multi-unit housing” means 5 or more dwelling units located on the same lot or development site, not including middle housing.
+    The current Housing Model Codes utilize the following definition: “Multi-unit housing” means 5 or more dwelling units located on the same lot or development site, not including middle housing.
 
-This definition encompasses a broad range of housing that is not middle housing. If the model code utilized the statutory definition that will be in effect January 1, 2028 (10 or more units), there would be a definitional gap in which housing between 5 and 10 units that are not middle housing would not be regulated under the code."
-- question: "Under the current ORS 197A.465 "multifamily structure" definition, is it possible that middle housing may not be eligible for an exemption to residential design standards?"
-  answer: "Yes, the current ORS 197A.465 definition of "multifamily structure" overlaps with many attached configurations of middle housing. However, the new SB 1521 (2026) definition of "multiunit structure" largely removes this overlap.
+    This definition encompasses a broad range of housing that is not middle housing. If the model code utilized the statutory definition that will be in effect January 1, 2028 (10 or more units), there would be a definitional gap in which housing between 5 and 10 units that are not middle housing would not be regulated under the code.
+- question: |
+    Under the current ORS 197A.465 "multifamily structure" definition, is it possible that middle housing may not be eligible for an exemption to residential design standards?
+  answer: |
+    Yes, the current ORS 197A.465 definition of "multifamily structure" overlaps with many attached configurations of middle housing. However, the new SB 1521 (2026) definition of "multiunit structure" largely removes this overlap.
 
-Under the current definition, attached configurations of 3 or more middle housing units are not subject to the law. For example, a development containing 20 or more units consisting of attached triplex or townhouse structures containing 3+ units would be exempt from the law and required to meet residential design standards. 
+    Under the current definition, attached configurations of 3 or more middle housing units are not subject to the law. For example, a development containing 20 or more units consisting of attached triplex or townhouse structures containing 3+ units would be exempt from the law and required to meet residential design standards. 
 
-Because the new term "multiunit structure" increases this threshold to ten units, it no longer overlaps with configurations of middle housing required under ORS 197A.420. It can overlap with townhouse structures containing ten or more units, but this middle housing configuration is not required under administrative rules implementing ORS 197A.420."
-- question: "Under the current "multifamily structure" definition, are developments consisting of 20 or more dwellings, and consisting of detached single dwellings and/or duplexes exempt from the design standards listed in section 8(3)(A) through (I)?"
-  answer: "Yes, as well as other kinds of middle housing that do not meet the definition of “multifamily structure.” Other examples include detached plexes, detached cottages, attached cottages in subgroupings of two units per structure, townhouse structures with two units, and detached bonus units under ORS 197A.421.
+    Because the new term "multiunit structure" increases this threshold to ten units, it no longer overlaps with configurations of middle housing required under ORS 197A.420. It can overlap with townhouse structures containing ten or more units, but this middle housing configuration is not required under administrative rules implementing ORS 197A.420.
+- question: |
+    Under the current "multifamily structure" definition, are developments consisting of 20 or more dwellings, and consisting of detached single dwellings and/or duplexes exempt from the design standards listed in section 8(3)(A) through (I)?
+  answer: |
+    Yes, as well as other kinds of middle housing that do not meet the definition of “multifamily structure.” Other examples include detached plexes, detached cottages, attached cottages in subgroupings of two units per structure, townhouse structures with two units, and detached bonus units under ORS 197A.421.
 
-Once the definition of "multiunit structure" takes effect on January 1, 2028, then all middle housing allowed under ORS 197A.420 will be eligible for the same exemption."
-- question: "If a development proposes new units and retaining existing units, do the existing units “count” towards the 20 required units?"
+    Once the definition of "multiunit structure" takes effect on January 1, 2028, then all middle housing allowed under ORS 197A.420 will be eligible for the same exemption.
+- question: |
+    If a development proposes new units and retaining existing units, do the existing units “count” towards the 20 required units?
   answer: "“Residential units” means “any new single-unit dwellings, manufactured dwellings and units of middle housing, as defined in ORS 197A.420.” Or Laws 2025, ch 330, § 8, compiled as a note after ORS 197A.400. Because the definition is specific to new units, existing units would not affect the total number of residential units in a given development project."
 - question: "When does a local government determine what constitutes an application for development of housing with 20 or more units? Is this during approval of the land division application, even though the residential design standards aren’t evaluated at that point in the development process?"
   answer: "SB 1521 (2026) does not specify if this determination is made when the land division is reviewed or when building permits are submitted. Because the bill identifies standards that can be applied at either the land division or building permit stage, it is likely consistent with the statutory intent to consider the future construction on lots at the land division application phase, that are part of a development with 20 or more units to be eligible for residential design standard exceptions."
 - question: "Is the exemption to residential design standards under SB 974 (2025) only applicable to new developments proposed after the effective date? What about approved subdivisions that are being built out now? Redevelopment of a lot within an existing subdivision from 30 years ago? Do historic districts / overlay zones still apply?"
-  answer: "It is not clear. Generally speaking, a floor letter and FAQ submitted in the legislative record suggests an intent for the exception to apply to “new neighborhoods” and not to “multi-family housing or small-scale ’infill’ developments.”
+  answer: |
+    It is not clear. Generally speaking, a floor letter and FAQ submitted in the legislative record suggests an intent for the exception to apply to “new neighborhoods” and not to “multi-family housing or small-scale ’infill’ developments.”
 
-SB 974 (2025) defines “residential units” to mean “any new single-unit dwellings, manufactured dwellings and units of middle housing, as defined in ORS 197A.420”, and requires any application for the development of housing within a UGB of 20 or more residential units to be exempted from residential design standards. The bill does not include any exemption for historic districts nor overlay zones that include residential design standards as defined in the bill.
+    SB 974 (2025) defines “residential units” to mean “any new single-unit dwellings, manufactured dwellings and units of middle housing, as defined in ORS 197A.420”, and requires any application for the development of housing within a UGB of 20 or more residential units to be exempted from residential design standards. The bill does not include any exemption for historic districts nor overlay zones that include residential design standards as defined in the bill.
 
-Many residential design standards as defined in the bill are not typically applied during the subdivision stage (with some exceptions, including PUDs). Instead, these standards are generally applied at a future plan check/building permit, creating a timeline question as to when new units count or do not count towards the exemption. The bill does not distinguish new/recent subdivisions from older subdivisions that include new construction later on. One potential method of clarification is through a condition of approval of a tentative plat noting the inapplicability of certain standards under the law.
+    Many residential design standards as defined in the bill are not typically applied during the subdivision stage (with some exceptions, including PUDs). Instead, these standards are generally applied at a future plan check/building permit, creating a timeline question as to when new units count or do not count towards the exemption. The bill does not distinguish new/recent subdivisions from older subdivisions that include new construction later on. One potential method of clarification is through a condition of approval of a tentative plat noting the inapplicability of certain standards under the law.
 
-HAPO is unable to speak to the precise intersection of statements of legislative intent with the application of the law to offer definitive clarity. Therefore, we recommend consulting legal counsel for additional interpretive clarity."
+    HAPO is unable to speak to the precise intersection of statements of legislative intent with the application of the law to offer definitive clarity. Therefore, we recommend consulting legal counsel for additional interpretive clarity.
 - question: "If the lots in a subdivision are eligible for middle housing, how should a local government calculate whether the 20-unit threshold is met when the number of units isn’t known?"
   answer: "Middle housing units count as “residential units,” but the law does not specify how to count units where the total number of units in a subdivision is unknown. Where an applicant specifies the proposed development on the future lots, this may be used as a basis for determining if the threshold is met."
   
