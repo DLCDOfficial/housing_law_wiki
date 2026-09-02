@@ -51,7 +51,7 @@ const Home = () => {
         tags = tags ?? [];
         const hasMatch = selectedTags.length == 0 || tags.some(tag => selectedTags.includes(tag));
         return hasMatch ? (
-            <calcite-card key={route} label={title}>
+            <calcite-card key={route} label={title} disabled={development}>
                 <span slot="heading">
                     {/* If the card is in development, don't link */}
                     {
