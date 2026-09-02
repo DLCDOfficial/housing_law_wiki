@@ -47,61 +47,63 @@ const ComboBox = ({ onChange }) => {
 
 const Home = () => {
     const [selectedTags, setSelectedTags] = useState([]);
-    const LawLinkCards = configYaml.map(({title, route, description, development, tags}) => {
-        tags = tags ?? [];
-        const hasMatch = selectedTags.length == 0 || tags.some(tag => selectedTags.includes(tag));
-        return hasMatch ? (
-            <calcite-card key={route} label={title} disabled={development}>
-                <span slot="heading">
-                    {/* If the card is in development, don't link */}
-                    {
-                        development ?
-                            title 
-                            :
-                            <Link to={`/laws/${route}`}>{title}</Link>
-                    }
-                </span>
-                <p slot="description">
-                    {description}
-                    {
-                        !development &&
-                        <p>
-                            <details>
-                                <summary>applicability</summary>
-                                <ul>
-                                    {tags.map((tag) => {
-                                        return <li>{tag}</li>
-                                    })}
-                                </ul>
-                            </details>
+    const LawLinkCards = configYaml
+        .sort((a, b) => !!a.development - !!b.development )
+        .map(({ title, route, description, development, tags }) => {
+            tags = tags ?? [];
+            const hasMatch = selectedTags.length == 0 || tags.some(tag => selectedTags.includes(tag));
+            return hasMatch ? (
+                <calcite-card key={route} label={title} disabled={development}>
+                    <span slot="heading">
+                        {/* If the card is in development, don't link */}
+                        {
+                            development ?
+                                title
+                                :
+                                <Link to={`/laws/${route}`}>{title}</Link>
+                        }
+                    </span>
+                    <p slot="description">
+                        {description}
+                        {
+                            !development &&
+                            <p>
+                                <details>
+                                    <summary>applicability</summary>
+                                    <ul>
+                                        {tags.map((tag) => {
+                                            return <li>{tag}</li>
+                                        })}
+                                    </ul>
+                                </details>
 
-                        </p>
-                    }
-                </p>
+                            </p>
+                        }
+                    </p>
 
-                <div slot="footer-end">
-                    {
-                        development ?
-                            <calcite-chip value={`Go to ${title} page`} icon="wrench" scale="s">
-                                Page in development
-                            </calcite-chip>
-                            :
-                            <calcite-chip value={`Go to ${title} page`} icon="link" scale="s">
-                                <Link to={`/laws/${route}`}>View</Link>
-                            </calcite-chip>
-                    }
-                </div>
-            </calcite-card>
-        ) : null;
-    });
-    return(
+                    <div slot="footer-end">
+                        {
+                            development ?
+                                <calcite-chip value={`Go to ${title} page`} icon="wrench" scale="s">
+                                    Page in development
+                                </calcite-chip>
+                                :
+                                <calcite-chip value={`Go to ${title} page`} icon="link" scale="s">
+                                    <Link to={`/laws/${route}`}>View</Link>
+                                </calcite-chip>
+                        }
+                    </div>
+                </calcite-card>
+            ) : null;
+        });
+    return (
         <div>
             <h1>{appYaml.title}</h1>
             <section className="overview">
                 <h2>Overview</h2>
                 <p>
                     <Markdown
-                        components={ { a: LinkComponent }}
+                        components={{ a: LinkComponent }}
                     >
                         {appYaml.description}
                     </Markdown>
