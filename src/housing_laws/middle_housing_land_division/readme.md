@@ -66,6 +66,10 @@ Only applications for a single middle housing development are eligible for a mid
 <summary>View Related Materials</summary>
 <p>
 
+### Documents and Additional Guidance
+
+[Middle Housing Land Division One Page Summary](https://www.oregon.gov/lcd/HAPO/Shared%20Documents/MHLD%20Handout.pdf)
+
 ### Model Codes
 
 [Housing Model Code for Medium Cities](https://www.oregon.gov/lcd/Housing/Documents/2025_MediumCities_HousingModelCode.pdf) (see chapter 9.6)
